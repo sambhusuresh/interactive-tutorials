@@ -5,7 +5,7 @@ PHP is an object oriented language, although it does not have to be used as one,
 PHP functions are not object oriented.
 
 In object oriented programming, a `class` is a definition of an object,
-whereas an `object` is an instance of an object, meaning that from one
+whereas an `object` is an instance of a class, meaning that from one
 class you can create many objects.
 
 For example, let's define a class of a student.
